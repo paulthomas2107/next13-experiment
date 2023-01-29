@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
               <a href="#">About</a>
             </li>
             <li>
-              <a href="#">Logout</a>
+              <a href="#">Sign Up</a>
             </li>
           </ul>
         </nav>
